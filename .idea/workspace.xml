@@ -21,93 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TeenieTinyPOSTagger.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/TeenieTinyPOSTagger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="128" column="202" selection-start-line="128" selection-start-column="202" selection-end-line="128" selection-end-column="202" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="create_praat_file.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/create_praat_file.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="firstNLTKnewimac.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/firstNLTKnewimac.py">
+      <file leaf-file-name="duration_tier_creator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/duration_tier_creator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.703125">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PhaseFiveTagging.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/PhaseFiveTagging.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="221" column="46" selection-start-line="221" selection-start-column="46" selection-end-line="221" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PhaseFourTagging.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/PhaseFourTagging.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1006" column="41" selection-start-line="1006" selection-start-column="41" selection-end-line="1006" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PhaseOneTagging.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/PhaseOneTagging.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="106" selection-start-line="48" selection-start-column="106" selection-end-line="48" selection-end-column="106" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PhaseTwoTagging.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/PhaseTwoTagging.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="647" column="79" selection-start-line="647" selection-start-column="79" selection-end-line="647" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PhaseThreeTagging.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/PhaseThreeTagging.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2676" column="0" selection-start-line="2676" selection-start-column="0" selection-end-line="2677" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="162" selection-start-line="2" selection-start-column="162" selection-end-line="2" selection-end-column="162" />
+            <state vertical-scroll-proportion="0.43080357">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -138,6 +66,7 @@
         <option value="$PROJECT_DIR$/../HomeGrownPOSTagger/PhaseOneTagging.py" />
         <option value="$PROJECT_DIR$/../HomeGrownPOSTagger/TeenieTinyPOSTagger.py" />
         <option value="$PROJECT_DIR$/create_praat_file.py" />
+        <option value="$PROJECT_DIR$/duration_tier_creator.py" />
       </list>
     </option>
   </component>
@@ -215,7 +144,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.firstNLTKnewimac">
+  <component name="RunManager" selected="Python.duration_tier_creator">
     <configuration default="false" name="firstNLTKnewimac" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,23 +179,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="DictStuff" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="trying stuff" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DictStuff.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="PhaseOneTagging" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,6 +209,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="trying stuff" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_praat_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="duration_tier_creator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="trying stuff" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/duration_tier_creator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -426,17 +355,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.firstNLTKnewimac" />
       <item index="1" class="java.lang.String" itemvalue="Python.TeenieTinyPOSTagger" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DictStuff" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PhaseOneTagging" />
-      <item index="4" class="java.lang.String" itemvalue="Python.create_praat_file" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PhaseOneTagging" />
+      <item index="3" class="java.lang.String" itemvalue="Python.create_praat_file" />
+      <item index="4" class="java.lang.String" itemvalue="Python.duration_tier_creator" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.firstNLTKnewimac" />
-        <item index="1" class="java.lang.String" itemvalue="Python.create_praat_file" />
-        <item index="2" class="java.lang.String" itemvalue="Python.TeenieTinyPOSTagger" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PhaseOneTagging" />
-        <item index="4" class="java.lang.String" itemvalue="Python.DictStuff" />
+        <item index="0" class="java.lang.String" itemvalue="Python.duration_tier_creator" />
+        <item index="1" class="java.lang.String" itemvalue="Python.firstNLTKnewimac" />
+        <item index="2" class="java.lang.String" itemvalue="Python.create_praat_file" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TeenieTinyPOSTagger" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PhaseOneTagging" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +395,7 @@
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35186657" sideWeight="0.61752135" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22875299" sideWeight="0.61752135" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -527,7 +456,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -585,7 +514,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -643,7 +572,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -685,7 +614,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -727,7 +656,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -769,7 +698,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="57" column="88" selection-start-line="57" selection-start-column="88" selection-end-line="57" selection-end-column="88" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -876,12 +805,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/firstNLTKnewimac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03348214">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/TeenieTinyPOSTagger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="1.4419643">
           <caret line="128" column="202" selection-start-line="128" selection-start-column="202" selection-end-line="128" selection-end-column="202" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -897,15 +834,23 @@
     <entry file="file://$PROJECT_DIR$/create_praat_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstNLTKnewimac.py">
+    <entry file="file://$PROJECT_DIR$/dur_creator_test.praat">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.703125">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/duration_tier_creator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43080357">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
