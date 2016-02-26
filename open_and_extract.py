@@ -9,10 +9,6 @@ def extract_xmin_xmax(file_name):
         target = f.readline()
 
         if target.endswith("vowel\"\n"):
-            #print(x1)
-            #print(x2)
-            #print(x)
-            #print(target)
             found_vowel = True
             break
     if found_vowel != True:
@@ -21,7 +17,6 @@ def extract_xmin_xmax(file_name):
     for x in range(0,100):
         target = f.readline()
         if target.endswith("[2]:\n"):
-            #print(target)
             found_interval = True
             break
     if found_interval != True:
