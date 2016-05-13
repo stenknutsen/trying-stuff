@@ -1,4 +1,16 @@
 import sys
+#######################################
+#
+#Open and Extract (unfinished)
+#
+#Originally part of a larger program
+#which would automate the process of
+#extracting vowels from textgrids and
+#strech their duration
+#
+#Code Contributor: Sten Knutsen
+#
+#######################################
 
 def extract_xmin_xmax(file_name):
     f = open(file_name, 'r')
