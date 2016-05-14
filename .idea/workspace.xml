@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20bea029-5dea-4161-94eb-8f17e34b85a3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/strip_data.py" afterPath="$PROJECT_DIR$/strip_data.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mini_lexicon.py" afterPath="" />
     </list>
     <ignored path="trying stuff.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,6 +35,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="tag.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/tag.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="PhaseOneTagging.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/PhaseOneTagging.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,54 +57,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adj.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lex_raw_data/adj.txt">
+      <file leaf-file-name="TeenieTinyPOSTagger.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/TeenieTinyPOSTagger.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="open_and_extract.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open_and_extract.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="firstNLTKnewimac.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstNLTKnewimac.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="17" />
               <folding>
-                <element signature="e#2#25#0" expanded="true" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strip_data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strip_data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mini_lexicon.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mini_lexicon.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.93333334">
-              <caret line="12008" column="0" selection-start-line="12008" selection-start-column="0" selection-end-line="12008" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -135,7 +107,10 @@
         <option value="$PROJECT_DIR$/../HomeGrownPOSTagger/test.txt" />
         <option value="$PROJECT_DIR$/../HomeGrownPOSTagger/TeenieTinyPOSTagger.py" />
         <option value="$PROJECT_DIR$/strip_data.py" />
+        <option value="$PROJECT_DIR$/tag.py" />
         <option value="$PROJECT_DIR$/mini_lexicon.py" />
+        <option value="$PROJECT_DIR$/../HomeGrownPOSTagger/mini_lexicon.py" />
+        <option value="$PROJECT_DIR$/../HomeGrownPOSTagger/tag.py" />
       </list>
     </option>
   </component>
@@ -218,24 +193,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mini_lexicon">
-    <configuration default="false" name="vowel_strectching_time" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="trying stuff" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vowel_strectching_time.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.tag (1)">
     <configuration default="false" name="TeenieTinyPOSTagger" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,23 +207,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HomeGrownPOSTagger" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../HomeGrownPOSTagger/TeenieTinyPOSTagger.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="form" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="trying stuff" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/form.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -300,6 +241,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="trying stuff" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mini_lexicon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="trying stuff" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tag.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tag (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HomeGrownPOSTagger" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HomeGrownPOSTagger" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../HomeGrownPOSTagger/tag.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -427,19 +402,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.vowel_strectching_time" />
-      <item index="1" class="java.lang.String" itemvalue="Python.TeenieTinyPOSTagger" />
-      <item index="2" class="java.lang.String" itemvalue="Python.form" />
-      <item index="3" class="java.lang.String" itemvalue="Python.strip_data" />
-      <item index="4" class="java.lang.String" itemvalue="Python.mini_lexicon" />
+      <item index="0" class="java.lang.String" itemvalue="Python.TeenieTinyPOSTagger" />
+      <item index="1" class="java.lang.String" itemvalue="Python.strip_data" />
+      <item index="2" class="java.lang.String" itemvalue="Python.mini_lexicon" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tag" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tag (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.mini_lexicon" />
-        <item index="1" class="java.lang.String" itemvalue="Python.strip_data" />
-        <item index="2" class="java.lang.String" itemvalue="Python.TeenieTinyPOSTagger" />
-        <item index="3" class="java.lang.String" itemvalue="Python.vowel_strectching_time" />
-        <item index="4" class="java.lang.String" itemvalue="Python.form" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tag (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tag" />
+        <item index="2" class="java.lang.String" itemvalue="Python.mini_lexicon" />
+        <item index="3" class="java.lang.String" itemvalue="Python.strip_data" />
+        <item index="4" class="java.lang.String" itemvalue="Python.TeenieTinyPOSTagger" />
       </list>
     </recent_temporary>
   </component>
@@ -466,10 +441,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20095314" sideWeight="0.61752135" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20095314" sideWeight="0.61752135" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -531,28 +506,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/PhaseFiveTagging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="221" column="46" selection-start-line="221" selection-start-column="46" selection-end-line="221" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/PhaseFourTagging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1006" column="41" selection-start-line="1006" selection-start-column="41" selection-end-line="1006" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/PhaseOneTagging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="106" selection-start-line="48" selection-start-column="106" selection-end-line="48" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/PhaseTwoTagging.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -826,25 +779,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/TeenieTinyPOSTagger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3">
-          <caret line="9" column="191" selection-start-line="9" selection-start-column="191" selection-end-line="9" selection-end-column="191" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lex_raw_data/adj.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -860,12 +795,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vowel_strectching_time.py">
+    <entry file="file://$PROJECT_DIR$/open_and_extract.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="56" selection-end-column="12" />
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strip_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76666665">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstNLTKnewimac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23333333">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#2#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lex_raw_data/adj.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/mini_lexicon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="52.7">
+          <caret line="12042" column="0" selection-start-line="12042" selection-start-column="0" selection-end-line="12042" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/TeenieTinyPOSTagger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -878,37 +855,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/open_and_extract.py">
+    <entry file="file://$PROJECT_DIR$/vowel_strectching_time.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstNLTKnewimac.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="56" selection-end-column="12" />
           <folding>
-            <element signature="e#2#25#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strip_data.py">
+    <entry file="file://$PROJECT_DIR$/../HomeGrownPOSTagger/tag.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mini_lexicon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.93333334">
-          <caret line="12008" column="0" selection-start-line="12008" selection-start-column="0" selection-end-line="12008" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
