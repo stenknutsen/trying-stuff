@@ -17,7 +17,7 @@ from open_and_extract import*
 #Read input from user (manual)
 #
 file_name = raw_input('Enter name of file to create: ')
-file_name = "/Users/stenknutsen/Documents/praat_scripts_folder/"+file_name + ".praat"
+file_name = "/Users/stenknutsen/Desktop/dur_tiers/"+ file_name + ".praat"
 tier_name = raw_input('Enter tier name: ')
 begin_v = float(raw_input('Enter xmin: ' ))
 end_v = float(raw_input('Enter xmax: ' ))
@@ -25,11 +25,11 @@ end_v = float(raw_input('Enter xmax: ' ))
 #Calculate the "curve"
 #
 dif = end_v - begin_v
-perc = float(dif*0.35)
+perc = float(dif*0.40)
 begin_vowel = begin_v+perc
 end_vowel = end_v - perc
-print("begin vowel 35 percent is: ")+str(begin_vowel)
-print("end vowel 35 percent is: ")+str(end_vowel)
+print("begin vowel 40 percent is: ")+str(begin_vowel)
+print("end vowel 40 percent is: ")+str(end_vowel)
 percent_legnthen = float(raw_input('Enter percent lengthen: '))/100.0
 total_area = end_v - begin_v
 midpoint = float((end_v-begin_v)/2.0)+begin_v
@@ -57,6 +57,6 @@ file.write('Add point: '+str(end_vowel)+', 1\n')
 file.close()
 
 
-# 1.3525
-# 1.4025
+# 1.3825
+# 1.4625
 
